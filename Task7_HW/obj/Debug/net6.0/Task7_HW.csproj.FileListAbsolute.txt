@@ -1,0 +1,15 @@
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\bin\Debug\net6.0\Task7_HW.exe
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\bin\Debug\net6.0\Task7_HW.deps.json
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\bin\Debug\net6.0\Task7_HW.runtimeconfig.json
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\bin\Debug\net6.0\Task7_HW.dll
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\bin\Debug\net6.0\Task7_HW.pdb
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.csproj.AssemblyReference.cache
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.AssemblyInfoInputs.cache
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.AssemblyInfo.cs
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.dll
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\refint\Task7_HW.dll
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.pdb
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\Task7_HW.genruntimeconfig.cache
+C:\Users\Ruslan Petrov\Desktop\C_sharp\Task7_HW\obj\Debug\net6.0\ref\Task7_HW.dll
